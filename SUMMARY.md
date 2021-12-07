@@ -8,15 +8,12 @@
 * [👾 Navigating Discord](start-here/navigating-discord/README.md)
   * [👩👩👧👧 Discord Roles](start-here/navigating-discord/discord-roles.md)
   * [🤖 Discord Bots](start-here/navigating-discord/discord-bots.md)
+  * [🗨 Voice Chat Channels](start-here/navigating-discord/voice-chat-channels.md)
 * [🐣 Products and Programs](start-here/products-and-programs/README.md)
   * [👩✈ Co-Pilots](start-here/products-and-programs/co-pilots.md)
   * [🎓 Fellowships](start-here/products-and-programs/fellowships.md)
   * [💫 Hackathons](start-here/products-and-programs/hackathons.md)
-
-***
-
-* [🗨 Voice Chat Channels](voice-chat-channels.md)
-* [❓ General FAQs](general-faqs.md)
+* [❓ General FAQs](start-here/general-faqs.md)
 
 ## Resources
 
