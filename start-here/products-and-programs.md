@@ -7,15 +7,15 @@ If you are interested in contributing to a team, [applying here](https://airtabl
 ### **Membership**
 
 * **🤝 Membership** (coming soon)
-* ****:woman\_pilot: **** [**Co-Pilots**](../co-pilots.md) - Support program for new members
-* ****:mortar\_board: **** [**Fellowships**](../fellowships.md) - Accessibility program for talent
-* ****:brain: **Knowledge Base** - Aggregates and organizes knowledge and learnings across FWB
+* :woman\_pilot:[**Co-Pilots**](../co-pilots.md) - Support program for new members
+* :mortar\_board: [**Fellowships**](../fellowships.md) - Accessibility program for talent
+* :brain: **Knowledge Base** - Aggregates and organizes knowledge and learnings across FWB
 
 ### Editorial
 
-* &#x20;[**Pulse**](https://www.fwb.help/pulse) – A realtime view of our community
-* :newspaper: **** [**TL;DR**](https://tldr.fwb.help) – Our weekly email blast recapping all things FWB
-* ****[**WIP**](https://www.fwb.help/wip)****[ ](https://www.fwb.help/wip)– FWB's public-facing long-form publication.
+* [**Pulse**](https://www.fwb.help/pulse) – A realtime view of our community
+* :newspaper: [**TL;DR**](https://tldr.fwb.help) – Our weekly email blast recapping all things FWB
+* [**WIP**](https://www.fwb.help/wip)[ ](https://www.fwb.help/wip)– FWB's public-facing long-form publication.
 
 ### Events
 

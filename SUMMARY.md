@@ -6,7 +6,7 @@
 * [💟 Code of Conduct](https://github.com/friends-with-benefits/codeofconduct/blob/main/code.md)
 * [📃 Manifesto](https://www.fwb.help/manifesto)
 * [👾 Navigating Discord](start-here/navigating-discord/README.md)
-  * [👨👨👧👦 Discord Roles](start-here/navigating-discord/discord-roles.md)
+  * [👩👩👧👧 Discord Roles](start-here/navigating-discord/discord-roles.md)
   * [🤖 Discord Bots](start-here/navigating-discord/discord-bots.md)
 * [🐣 Products and Programs](start-here/products-and-programs.md)
 
