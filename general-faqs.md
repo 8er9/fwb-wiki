@@ -1,8 +1,8 @@
-# General FAQs
+# ❓ General FAQs
 
-****[**About FWB**](general-faqs.md#about-fwb)****
+[**About FWB**](general-faqs.md#about-fwb)
 
-****[**Becoming a Member**](general-faqs.md#becoming-a-member)****
+[**Becoming a Member**](general-faqs.md#becoming-a-member)
 
 ## About FWB
 
@@ -55,3 +55,65 @@ The token price also fluctuates. If the time is not right financially for you to
 
 Yes. FWB offers scholarships based on merit, need, and inclusiveness of under-represented communities. If you feel like you fit the bill please feel free to DM a member of the Host Committee for information on the scholarships program
 
+## Application process
+
+### **Where do I find the application form?**
+
+The membership application can be found here:[http://fwb.help/join](http://fwb.help/join)****
+
+### **Do I need to hold $FWB to start my application?**
+
+Nope, you can apply without holding FWB tokens. You will need the minimum amount of tokens required for your membership tier once you've been approved.
+
+### **The application form doesn't allow me to submit. What's up?**
+
+A common error is not filling out your Discord ID correctly. Please have potential new members copy-paste it from their Discord landing screen. Hover over your ID in the lower-left until the ‘copy user ID’ prompt appears, and click to copy.
+
+If you did not include your wallet address or you used an invalid Discord ID, you will not see the full application which includes city, interests, and three open response questions.
+
+### **How long does it take to get approved as a new member?**
+
+Current turnaround time is approximately 2 weeks. If that period includes holidays it may be longer.
+
+## **Getting started**
+
+### **What are Seasons?**
+
+Check out:&#x20;
+
+### **How do I set up a Web3 wallet?**
+
+Check out: ‣
+
+### **How do I purchase $FWB?**
+
+Check out: ‣
+
+### **How do I connect my wallet to Discord?**
+
+Check out: ‣
+
+### **I moved my funds to a new wallet, how do I re-join the server?**
+
+Check out: ‣
+
+## **Onboarding**
+
+*   **What are the different FWB Discord channels?**
+
+    Check out: [Navigating Discord](https://www.notion.so/Navigating-Discord-cf3b878dd2e64749a736eae6ee6a73f8)
+*   **What are the different FWB events?**
+
+    Check out: [Events Calendar](https://www.notion.so/Events-Calendar-5460b8ae393c4dffac2ddeae160262bf)
+*   **What are CityDAOs?**
+
+    Check out: [FWB Cities](https://www.notion.so/FWB-Cities-8584a6a3864e49c09a3889bbf34458cd)
+
+## **Governance**
+
+*   **How do I vote on proposals?**
+
+    Voting on live proposals happens on Snapshot. Check out this guide for more info: ‣
+*   **How do I create a proposal?**
+
+    Check out this excellent guide: [Proposals](https://www.notion.so/Proposals-0e23e5bea312403890bbca7c23109f91)

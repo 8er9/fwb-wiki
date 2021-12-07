@@ -60,8 +60,8 @@ These happen bi-weekly in the #fwb-town-hall voice channel. You can think of Tow
 
 Co-pilots can help with anything from connecting your wallet and onboarding, all the way through recommending channels that align with your interests.
 
-{% content-ref url="co-pilots.md" %}
-[co-pilots.md](co-pilots.md)
+{% content-ref url="start-here/products-and-programs/co-pilots.md" %}
+[co-pilots.md](start-here/products-and-programs/co-pilots.md)
 {% endcontent-ref %}
 
 ***

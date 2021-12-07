@@ -7,8 +7,8 @@ If you are interested in contributing to a team, [applying here](https://airtabl
 ### **Membership**
 
 * **🤝 Membership** (coming soon)
-* :woman\_pilot:[**Co-Pilots**](../co-pilots.md) - Support program for new members
-* :mortar\_board: [**Fellowships**](../fellowships.md) - Accessibility program for talent
+* :woman\_pilot:[**Co-Pilots**](co-pilots.md) - Support program for new members
+* :mortar\_board: [**Fellowships**](fellowships.md) - Accessibility program for talent
 * :brain: **Knowledge Base** - Aggregates and organizes knowledge and learnings across FWB
 
 ### Editorial
@@ -21,8 +21,8 @@ If you are interested in contributing to a team, [applying here](https://airtabl
 
 * :calendar\_spiral: [**Events**](https://www.fwb.help/events) – Events calendar of all online-based FWB events, incl. Townhalls and Voice Chats
 * :speaking\_head:[**Voice chat archives**](https://docs.google.com/spreadsheets/d/1BmwmZmuWIQuo0MwPNWyS7-QjG7XCQv5yE7UIEQq-ZG4/edit) – Back catalog of past voice chats that went down in the Discord
-* :globe\_with\_meridians: [**FWB Cities**](../fwb-cities.md) – FWB's IRL component. In Season Four, FWB Cities are happening in [NYC](https://discord.gg/BBDCmQyA), [Los Angeles](https://discord.gg/74Y4kmTa), and [London](https://discord.gg/bAzFzS7S)
-* :dizzy: [**Hackathons**](../hackathons.md) – FWB-hosted hackathons
+* :globe\_with\_meridians: [**FWB Cities**](../../governance/fwb-cities.md) – FWB's IRL component. In Season Four, FWB Cities are happening in [NYC](https://discord.gg/BBDCmQyA), [Los Angeles](https://discord.gg/74Y4kmTa), and [London](https://discord.gg/bAzFzS7S)
+* :dizzy: [**Hackathons**](hackathons.md) – FWB-hosted hackathons
 
 ### Product
 
