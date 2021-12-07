@@ -1,9 +1,5 @@
 # ❓ General FAQs
 
-[**About FWB**](general-faqs.md#about-fwb)
-
-[**Becoming a Member**](general-faqs.md#becoming-a-member)
-
 ## About FWB
 
 ### What is FWB?
