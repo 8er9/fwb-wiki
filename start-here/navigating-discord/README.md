@@ -4,6 +4,10 @@ The FWB Discord is where everything happens. It's where we hang out and talk abo
 
 Check out the following articles for to get better acquainted with the channels, roles, and bots in the FWB Discord server.
 
+{% content-ref url="discord-roles.md" %}
+[discord-roles.md](discord-roles.md)
+{% endcontent-ref %}
+
 {% content-ref url="discord-bots.md" %}
 [discord-bots.md](discord-bots.md)
 {% endcontent-ref %}
