@@ -2,16 +2,24 @@
 
 Hello and welcome to the exciting world of Web 3. We're thrilled to have you join FWB. Once your application has been approved, you will need to purchase at least 75 $FWB tokens to get full access to the Friends with Benefits Discord server. To get started, the first thing you will need is an Ethereum wallet to store these tokens.
 
-### 🌐 **What is an Ethereum wallet?**
+## Background — What Are Wallets?
 
+Before we create your wallet, it's helpful for your security to understand the basics of how a wallet works.
+
+{% tabs %}
+{% tab title="1️⃣ What is an Ethereum wallet?" %}
 An Ethereum wallet houses your account information in the Web3 world. These accounts can hold assets such as cryptocurrencies and NFTs. It also provides a way to connect to Web3-enabled sites and interact with applications hosted on the Ethereum network (often referred to as _dapps_).
+
+### Difference with exchanges
 
 If you're already using a cryptocurrency exchange (like Coinbase, Gemini, Kraken, Binance, FTX, etc.), you might be familiar with holding crypto assets. But, you likely aren't familiar with connecting to applications. This is because exchanges are _custodial_ accounts. Cryptocurrency exchanges keep track of your cryptographic secrets, and you rely on them to keep your secrets safe. These exchanges don't allow you to take ownership of your actual Ethereum account details, which means you don't actually know your Ethereum address, and can't go out and interact with Web3 applications.
 
+### Why you need a wallet
+
 Setting up your own wallet is necessary to be able to join the FWB community, since your membership is tied to your Ethereum account address. Obtaining $FWB tokens involves interacting with Uniswap, an application hosted on the Ethereum network that allows users to swap cryptocurrencies. When you set up a wallet, your assets associated with that address are truly owned and controlled by you. Since you now hold the keys to your wallet, it is also _your responsibility_ to keep them safe.
+{% endtab %}
 
-## :digit\_three: One Wallet, Three Parts
-
+{% tab title="2️⃣ What parts make up a wallet?" %}
 When you create a wallet, three things will be generated:
 
 ### **1. Seed phrase**
@@ -36,8 +44,10 @@ When you create a wallet, three things will be generated:
 * Anyone with your public address can see your assets and transactions, but they can't control them
 * One wallet can hold multiple public addresses, (each derived from its associated **private key**).
 * A public address looks like this: _0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8_
+{% endtab %}
+{% endtabs %}
 
-## 🧐 **Choosing a Wallet**
+## Part I — **Choosing a Wallet**
 
 There is a growing list of wallets to choose from. Each wallet has different features, most of them share basic features such as easy access to Dapps and DeFi. Some wallets let you purchase crypto with a credit card, swap tokens, and withdraw crypto directly to your bank without going through an exchange. Choose a wallet that best suits your needs. You can always switch wallets or make a new one later on.
 
@@ -98,7 +108,7 @@ Features
 {% endtab %}
 {% endtabs %}
 
-## 🔑 **How to Set Up Your Wallet**
+## Part II — **Setting Up Your Wallet**
 
 Once you've decided which wallet you want to use, it's time to set it up. It should only take a few minutes to create your wallet. Aside from your device, you will need a pen and a piece of paper. Do this somewhere private, where no one else can see your screen.
 
