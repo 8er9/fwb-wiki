@@ -38,6 +38,6 @@
 
 ## Teams
 
-* [💥 Teams FAQ](teams/teams-faq.md)
 * [🌞 Org Chart](teams/org-chart.md)
+* [💥 Teams FAQ](teams/teams-faq.md)
 * [➕ Join an FWB Team](http://fwb.help/contribute)
