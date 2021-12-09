@@ -52,5 +52,5 @@ Creators and those who create/promote culture, including artists (traditional + 
 
 ### Additional Resources
 
-* [FWB Fellowship Program - click here](https://docs.google.com/document/d/1aSjuOlGRJhnF83bK9IkOKP\_zxGljd3rP\_mH2z30IaEw/edit).
-* [FWBenefactors Program - click here](https://docs.google.com/document/d/14GBQ3oiC1HpuPWKHJp-CDxOvtqA0\_uBpH1sYZsTBqL8/edit).
+* [FWB Fellowship Program](https://docs.google.com/document/d/1aSjuOlGRJhnF83bK9IkOKP\_zxGljd3rP\_mH2z30IaEw/edit)
+* [FWBenefactors Program](https://docs.google.com/document/d/14GBQ3oiC1HpuPWKHJp-CDxOvtqA0\_uBpH1sYZsTBqL8/edit)
