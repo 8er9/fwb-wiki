@@ -1,3 +1,7 @@
+---
+description: The questions that most of us when new to FWB
+---
+
 # ❓ General FAQs
 
 ## About FWB
@@ -75,41 +79,54 @@ Current turnaround time is approximately 2 weeks. If that period includes holida
 
 ### **What are Seasons?**
 
-Check out:&#x20;
+{% content-ref url="../governance/seasons.md" %}
+[seasons.md](../governance/seasons.md)
+{% endcontent-ref %}
 
 ### **How do I set up a Web3 wallet?**
 
-Check out: ‣
+{% content-ref url="../resources/how-to-guides/how-to-set-up-your-first-ethereum-wallet.md" %}
+[how-to-set-up-your-first-ethereum-wallet.md](../resources/how-to-guides/how-to-set-up-your-first-ethereum-wallet.md)
+{% endcontent-ref %}
 
 ### **How do I purchase $FWB?**
 
-Check out: ‣
+{% content-ref url="../resources/how-to-guides/how-to-purchase-usdfwb.md" %}
+[how-to-purchase-usdfwb.md](../resources/how-to-guides/how-to-purchase-usdfwb.md)
+{% endcontent-ref %}
 
-### **How do I connect my wallet to Discord?**
+### **How do I (re)connect my wallet to Discord?**
 
-Check out: ‣
-
-### **I moved my funds to a new wallet, how do I re-join the server?**
-
-Check out: ‣
+{% content-ref url="../resources/how-to-guides/how-to-re-connect-your-wallet.md" %}
+[how-to-re-connect-your-wallet.md](../resources/how-to-guides/how-to-re-connect-your-wallet.md)
+{% endcontent-ref %}
 
 ## **Onboarding**
 
-*   **What are the different FWB Discord channels?**
+### **What are the different FWB Discord channels?**
 
-    Check out: [Navigating Discord](https://www.notion.so/Navigating-Discord-cf3b878dd2e64749a736eae6ee6a73f8)
-*   **What are the different FWB events?**
+{% content-ref url="navigating-discord/" %}
+[navigating-discord](navigating-discord/)
+{% endcontent-ref %}
 
-    Check out: [Events Calendar](https://www.notion.so/Events-Calendar-5460b8ae393c4dffac2ddeae160262bf)
-*   **What are CityDAOs?**
+### **What are the different FWB events?**
 
-    Check out: [FWB Cities](https://www.notion.so/FWB-Cities-8584a6a3864e49c09a3889bbf34458cd)
+{% content-ref url="../resources/events-calendar.md" %}
+[events-calendar.md](../resources/events-calendar.md)
+{% endcontent-ref %}
+
+### **What are CityDAOs?**
+
+{% content-ref url="../governance/fwb-cities.md" %}
+[fwb-cities.md](../governance/fwb-cities.md)
+{% endcontent-ref %}
 
 ## **Governance**
 
-*   **How do I vote on proposals?**
+### **How do I vote on proposals?**
 
-    Voting on live proposals happens on Snapshot. Check out this guide for more info: ‣
-*   **How do I create a proposal?**
+Voting on live proposals happens on Snapshot. Check out this guide for more info: ‣
 
-    Check out this excellent guide: [Proposals](https://www.notion.so/Proposals-0e23e5bea312403890bbca7c23109f91)
+### **How do I create a proposal?**
+
+Check out this excellent guide: [Proposals](https://www.notion.so/Proposals-0e23e5bea312403890bbca7c23109f91)
