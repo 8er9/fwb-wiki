@@ -15,13 +15,13 @@ We recommend going through these five steps to get oriented at FWB.
 
 We've noticed that new members generally feel like they need to lurk for a bit before starting to interact.
 
-You may find our [Code of Conduct](./#welcome-to-fwb) a useful guide.
+You may find our [Code of Conduct](https://github.com/friends-with-benefits/codeofconduct/blob/main/code.md) a useful guide.
 
 ### 2. Check Out The Discord Channel Guide
 
 In the beginning, there was the FWB Discord.
 
-For an overview of all FWB Discord channels, check out the [FWB Discord Channel Guide](https://www.notion.so/ba9d0ca6d03541038c79c82cb265c72c).
+For an overview of all FWB Discord channels, the FWB Discord Channel Guide is coming soon.
 
 ### 3. Subscribe to the Events Calendar
 
@@ -54,7 +54,7 @@ Voice chats take place in the following channels, in the <mark style="color:blue
 
 ### 5. Attend an FWB Town Hall
 
-These happen bi-weekly in the #fwb-town-hall voice channel. You can think of Town Halls as regular status updates regarding what's going on at FWB, and what's coming up. At the end of the Town Hall, the floor is open. Questions and feedback are encouraged, especially from new members.
+These happen monthly in the #fwb-town-hall voice channel. You can think of Town Halls as regular status updates regarding what's going on at FWB, and what's coming up. At the end of the Town Hall, the floor is open. Questions and feedback are encouraged, especially from new members.
 
 ### Coming Soon: Book a Session with a Co-Pilot
 
